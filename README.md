@@ -139,3 +139,15 @@ The Random Forest Regressor achieved the lowest MAE and RMSE among the four mode
 ### 4. Random Forest Feature Importance
 
 ![Feature Importance](images/feature_importance.png)
+
+### Dataset Attribution
+
+This project uses the publicly available **Online Retail dataset** from the UCI Machine Learning Repository.
+
+**Original Source:** https://archive.ics.uci.edu/dataset/352/online+retail
+
+**Citation:** Chen, D. (2015). *Online Retail* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33
+
+**License:** Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+The dataset was used for educational and portfolio purposes. Data cleaning, exploratory analysis, feature engineering, and forecasting models were independently implemented as part of this project.
